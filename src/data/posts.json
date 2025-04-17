@@ -1,0 +1,42 @@
+[
+  {
+    "title": "React para Iniciantes",
+    "content": "React é uma biblioteca JavaScript para construir interfaces de usuário de forma declarativa.",
+    "author": "João Pedro",
+    "category": "Front-end",
+    "views": 160,
+    "status": false
+  },
+  {
+    "title": "Dicas para entrevistas",
+    "content": "Neste post você encontra dicas práticas para entrevistas de emprego em tecnologia.",
+    "author": "Carlos Mendes",
+    "category": "Carreira",
+    "views": 230,
+    "status": true
+  },
+  {
+    "title": "Aprendendo TypeScript",
+    "content": "TypeScript é um superconjunto do JavaScript que adiciona tipagem estática.",
+    "author": "Ana Costa",
+    "category": "Programação",
+    "views": 85,
+    "status": false
+  },
+  {
+    "title": "Introdução ao Node.js",
+    "content": "Node.js é uma plataforma de desenvolvimento para construir aplicações escaláveis.",
+    "author": "Lucas Lima",
+    "category": "Back-end",
+    "views": 120,
+    "status": true
+  },
+  {
+    "title": "Learning Zod library",
+    "content": "This post explaing about zod",
+    "author": "João Silva",
+    "category": "Programação",
+    "views": 42,
+    "status": true
+  }
+]
